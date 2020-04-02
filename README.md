@@ -1,7 +1,7 @@
 # integrateazfunctions_with_sqlserver
 Integrate Azure Functions with SQL Server
 
-By default, AZ Functions does not support straight integration with Microsoft SQL Server. As a developer, you can always bring in a module or an an exteranl sdk into the context of the AZ Function. Using this technique, I am providing an option to execute straight SQL's in  Python currently and will later update this project to provide an option using JavaScript as well.
+By default, AZ Functions does not support straight integration with Microsoft SQL Server. As a developer, you can always bring in a module or an external sdk into the context of the AZ Function. Using this technique, I am providing an option to execute straight SQL's in  Python currently and will later update this project to provide an option using JavaScript as well.
 
 Adding my Postman payload here for testing. I do have a version of this project can can stack up multiple requests if your queries are long consuming. In that situation you can come back later and query the response using a jobid
 
@@ -18,5 +18,6 @@ Adding my Postman payload here for testing. I do have a version of this project 
 Also, added screenshots for my response
 
 robin.ghosh@microsoft.com   # Robin S Ghosh
-Sr Cloud Solution Architect
+
+(Sr Cloud Solution Architect)
 

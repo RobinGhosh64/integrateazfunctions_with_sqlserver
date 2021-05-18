@@ -15,7 +15,8 @@ Adding my Postman payload here for testing. I do have a version of this project 
     "dothread":"N",
     "data": {
       "validationCode": "512d48b6-c7b8-40c8-89fe-f46f9e9622b6",
-      "sql" : "select id,trantype,merchant_id from dbo.Transactions"
+      "sql" : "select id,trantype,merchant_id from dbo.Transactions",
+      "callback_uri" : "https://rsg-webapp-tcc3.azurewebsites.net/asset/add"
     },
     "eventType": "Microsoft.EventGrid.SubscriptionValidationEvent",
     "metadataVersion": "1",
